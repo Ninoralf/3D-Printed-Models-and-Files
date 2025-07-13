@@ -5,16 +5,6 @@ Each project includes both the `.f3d` file (for editing in Fusion 360) and an `.
 
 ---
 
-## 📁 Table of Contents
-
-| Model Name | Preview | Download `.f3d` | Download `.stl` |
-|------------|---------|------------------|------------------|
-| Example Model 1 | ![Preview](previews/model1.png) | [model1.f3d](models/model1.f3d) | [model1.stl](models/model1.stl) |
-| Example Model 2 | ![Preview](previews/model2.png) | [model2.f3d](models/model2.f3d) | [model2.stl](models/model2.stl) |
-| ... | ... | ... | ... |
-
----
-
 ## 🛠️ How to Use
 
 1. **Open `.f3d` file**  
