@@ -13,8 +13,6 @@ Each project includes both the `.f3d` file (for editing in Fusion 360) and an `.
 | Example Model 2 | ![Preview](previews/model2.png) | [model2.f3d](models/model2.f3d) | [model2.stl](models/model2.stl) |
 | ... | ... | ... | ... |
 
-> 💡 You can add a rendered image in the `previews/` folder to help visualize each design.
-
 ---
 
 ## 🛠️ How to Use
